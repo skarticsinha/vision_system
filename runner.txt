@@ -1,0 +1,4 @@
+python3 -m vision_system.scripts.capture_embeddings
+
+
+python3 -m vision_system.scripts.detect_live
